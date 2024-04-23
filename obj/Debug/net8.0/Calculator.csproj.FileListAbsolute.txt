@@ -1,0 +1,28 @@
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\JPOTNURU\Desktop\CSharp\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\JPOTNURU\Desktop\CSharp\Session Codes\Calculator\obj\Debug\net8.0\ref\Calculator.dll
